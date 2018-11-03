@@ -1,4 +1,4 @@
-# ASCII ART 
+# ASCII ART IN PYTHON
 
 For this one to work , you need to install termcolor and pyfiglet module.
 You can use the following code:

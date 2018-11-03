@@ -1,4 +1,4 @@
-# ascii_project_beginner
+# ASCII ART 
 
 For this one to work , you need to install termcolor and pyfiglet module.
 You can use the following code:
